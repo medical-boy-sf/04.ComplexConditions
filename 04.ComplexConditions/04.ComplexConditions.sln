@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FruitOrVegetable", "04.F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.InvalidNumber", "05.InvalidNumber\05.InvalidNumber.csproj", "{92909B46-CA72-457A-B0AB-757667705C0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.PointOnRectangleBorder", "06.PointOnRectangleBorder\06.PointOnRectangleBorder.csproj", "{DBCF89DA-C2BD-4B4A-9FDA-6DAFD409AF4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.FruitShop", "07.FruitShop\07.FruitShop.csproj", "{9E65CF8E-8CBF-4D05-B653-E6C8D0700EC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{92909B46-CA72-457A-B0AB-757667705C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92909B46-CA72-457A-B0AB-757667705C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92909B46-CA72-457A-B0AB-757667705C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBCF89DA-C2BD-4B4A-9FDA-6DAFD409AF4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCF89DA-C2BD-4B4A-9FDA-6DAFD409AF4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCF89DA-C2BD-4B4A-9FDA-6DAFD409AF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCF89DA-C2BD-4B4A-9FDA-6DAFD409AF4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E65CF8E-8CBF-4D05-B653-E6C8D0700EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E65CF8E-8CBF-4D05-B653-E6C8D0700EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E65CF8E-8CBF-4D05-B653-E6C8D0700EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E65CF8E-8CBF-4D05-B653-E6C8D0700EC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
