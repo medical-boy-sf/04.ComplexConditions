@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Volleyball", "12.Volleyb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.Voyage", "16.Voyage\16.Voyage.csproj", "{0939F979-64EA-4A1E-B6C5-0103B02C3164}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.OperationWithNumbers", "17.OperationWithNumbers\17.OperationWithNumbers.csproj", "{CCA88563-2C31-4867-B5CC-5D022CF712A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{0939F979-64EA-4A1E-B6C5-0103B02C3164}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0939F979-64EA-4A1E-B6C5-0103B02C3164}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0939F979-64EA-4A1E-B6C5-0103B02C3164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCA88563-2C31-4867-B5CC-5D022CF712A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA88563-2C31-4867-B5CC-5D022CF712A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA88563-2C31-4867-B5CC-5D022CF712A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA88563-2C31-4867-B5CC-5D022CF712A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
