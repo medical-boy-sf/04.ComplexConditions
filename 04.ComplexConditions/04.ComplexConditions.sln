@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.OperationWithNumbers", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.FootballMatchTickets", "18.FootballMatchTickets\18.FootballMatchTickets.csproj", "{7D83FCBC-3EDC-4BA4-AAA3-193B42B13E76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.HotelRoom", "19.HotelRoom\19.HotelRoom.csproj", "{F94B6932-51AF-4E89-81D0-76D1A4F97F07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{7D83FCBC-3EDC-4BA4-AAA3-193B42B13E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D83FCBC-3EDC-4BA4-AAA3-193B42B13E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D83FCBC-3EDC-4BA4-AAA3-193B42B13E76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F94B6932-51AF-4E89-81D0-76D1A4F97F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F94B6932-51AF-4E89-81D0-76D1A4F97F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F94B6932-51AF-4E89-81D0-76D1A4F97F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F94B6932-51AF-4E89-81D0-76D1A4F97F07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
