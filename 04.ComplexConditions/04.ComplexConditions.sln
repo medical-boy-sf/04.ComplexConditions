@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.Voyage", "16.Voyage\16.V
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.OperationWithNumbers", "17.OperationWithNumbers\17.OperationWithNumbers.csproj", "{CCA88563-2C31-4867-B5CC-5D022CF712A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.FootballMatchTickets", "18.FootballMatchTickets\18.FootballMatchTickets.csproj", "{7D83FCBC-3EDC-4BA4-AAA3-193B42B13E76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{CCA88563-2C31-4867-B5CC-5D022CF712A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCA88563-2C31-4867-B5CC-5D022CF712A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCA88563-2C31-4867-B5CC-5D022CF712A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D83FCBC-3EDC-4BA4-AAA3-193B42B13E76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D83FCBC-3EDC-4BA4-AAA3-193B42B13E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D83FCBC-3EDC-4BA4-AAA3-193B42B13E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D83FCBC-3EDC-4BA4-AAA3-193B42B13E76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
